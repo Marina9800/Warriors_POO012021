@@ -1,0 +1,16 @@
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.exe
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.deps.json
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.runtimeconfig.json
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.runtimeconfig.dev.json
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.dll
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\bin\Debug\net5.0\ref\CollaborativeWork.dll
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.pdb
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.csprojAssemblyReference.cache
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.AssemblyInfoInputs.cache
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.AssemblyInfo.cs
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.dll
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\obj\Debug\net5.0\ref\CollaborativeWork.dll
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.pdb
+C:\Users\marin\OneDrive\Documentos\POO\Warriors_POO012021\Ejercicio\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.genruntimeconfig.cache
