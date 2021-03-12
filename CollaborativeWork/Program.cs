@@ -14,12 +14,12 @@ namespace CollaborativeWork
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Subtracting {a} - {b} equals {SubtractNumbers(a,b)} ");
+            Console.WriteLine($"Multiplying {a} * {b} equals {MultiplyNumbers(a,b)} ");
 
         }
-        static int SubtractNumbers(int a, int b)
+        static int MultiplyNumbers(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
