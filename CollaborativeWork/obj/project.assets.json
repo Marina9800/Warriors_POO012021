@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marin\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marin\\OneDrive\\Documentos\\POO\\Warriors_POO012021\\Ejercicio\\CollaborativeWork\\CollaborativeWork.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Warriors_POO012021\\CollaborativeWork\\CollaborativeWork.csproj",
       "projectName": "CollaborativeWork",
-      "projectPath": "C:\\Users\\marin\\OneDrive\\Documentos\\POO\\Warriors_POO012021\\Ejercicio\\CollaborativeWork\\CollaborativeWork.csproj",
-      "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marin\\OneDrive\\Documentos\\POO\\Warriors_POO012021\\Ejercicio\\CollaborativeWork\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Warriors_POO012021\\CollaborativeWork\\CollaborativeWork.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Warriors_POO012021\\CollaborativeWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
